@@ -24,7 +24,14 @@
 ---
 ## 📊 Estadísticas de GitHub
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=mariv542&layout=compact&langs_count=6&theme=tokyonight)  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mariv542&show_icons=true&theme=tokyonight)
+
+
+<!-- Top Languages con fondo rosa oscuro y texto morado oscuro -->
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=mariv542&layout=compact&langs_count=6&theme=tokyonight&bg_color=rgb(139, 0, 139)&title_color=rgb(128, 0, 128)&text_color=rgb(255, 105, 180))
+
+<!-- Stats generales con fondo morado oscuro y texto rosa -->
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mariv542&show_icons=true&theme=tokyonight&bg_color=rgb(75, 0, 130)&title_color=rgb(139, 0, 139)&icon_color=rgb(255, 105, 180)&text_color=rgb(255, 182, 193))
+
 
 ---
 <img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
