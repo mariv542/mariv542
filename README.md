@@ -1,4 +1,4 @@
-![Banner](https://github.com/mariv542/mariv542/blob/main/banner.png)
+![banner png](https://github.com/user-attachments/assets/10145cd1-c97c-42fa-a4c3-289aac646c5d)
 
 > *“Código con café, errores con paciencia ☕🐛”*
 
@@ -24,14 +24,11 @@
 ---
 ## 📊 Estadísticas de GitHub
 
-
-
 <!-- Top Languages con fondo rosa oscuro y texto morado oscuro -->
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=mariv542&layout=compact&langs_count=6&theme=tokyonight&bg_color=rgb(139, 0, 139)&title_color=rgb(128, 0, 128)&text_color=rgb(255, 105, 180))
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=mariv542&layout=compact&langs_count=6&theme=tokyonight&bg_color=#8B008B&title_color=#800080&text_color=#FF69B4) ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mariv542&show_icons=true&theme=tokyonight&bg_color=#4B0082&title_color=#8B008B&icon_color=#FF69B4&text_color=#FFB6C1)
+
 
 <!-- Stats generales con fondo morado oscuro y texto rosa -->
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mariv542&show_icons=true&theme=tokyonight&bg_color=rgb(75, 0, 130)&title_color=rgb(139, 0, 139)&icon_color=rgb(255, 105, 180)&text_color=rgb(255, 182, 193))
-
 
 ---
 <img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
@@ -40,8 +37,8 @@
 
 ## 📫 Cómo contactarme
 
-- 📧 mariv@example.com *(puedes cambiar esto por tu correo si lo deseas)*
-- 💼 [LinkedIn](https://linkedin.com/in/tuusuario) *(si tienes)*
+- 📧 marielvy542@gmail.com 
+- 💼 [LinkedIn](www.linkedin.com/in/hilary-marielvi-varela-vargas-35906625a) 
 
 ---
 
