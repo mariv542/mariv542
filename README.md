@@ -1,5 +1,6 @@
 
-![1743721967334](https://github.com/user-attachments/assets/14c57ecb-366b-409a-900b-92f11d5e847e)
+![Hola soy mariv (1)](https://github.com/user-attachments/assets/aa401607-85f4-4fa2-b0c3-6bc476e1132d)
+
 
 > *“Código con café, errores con paciencia ☕🐛”*
 
