@@ -1,4 +1,5 @@
-![banner png](https://github.com/user-attachments/assets/10145cd1-c97c-42fa-a4c3-289aac646c5d)
+
+![1743721967334](https://github.com/user-attachments/assets/14c57ecb-366b-409a-900b-92f11d5e847e)
 
 > *“Código con café, errores con paciencia ☕🐛”*
 
